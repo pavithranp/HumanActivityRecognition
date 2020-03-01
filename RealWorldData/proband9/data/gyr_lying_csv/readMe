@@ -1,0 +1,41 @@
+############################################
+# Sensor:  Gyroscope                             #
+# Version: 22092015                        #
+# Posture: lying                         #
+############################################
+
+Gyroscope_lying_chest.csv
+> entries: 31469
+> frequency: 49.95 Hz
+> duration: 629968 ms / 10.50 min
+
+Gyroscope_lying_forearm.csv
+> entries: 31790
+> frequency: 50.46 Hz
+> duration: 629971 ms / 10.50 min
+
+Gyroscope_lying_head.csv
+> entries: 31469
+> frequency: 49.95 Hz
+> duration: 629973 ms / 10.50 min
+
+Gyroscope_lying_shin.csv
+> entries: 31469
+> frequency: 49.95 Hz
+> duration: 629977 ms / 10.50 min
+
+Gyroscope_lying_thigh.csv
+> entries: 31469
+> frequency: 49.95 Hz
+> duration: 629969 ms / 10.50 min
+
+Gyroscope_lying_upperarm.csv
+> entries: 31464
+> frequency: 49.95 Hz
+> duration: 629879 ms / 10.50 min
+
+Gyroscope_lying_waist.csv
+> entries: 31470
+> frequency: 49.95 Hz
+> duration: 629974 ms / 10.50 min
+

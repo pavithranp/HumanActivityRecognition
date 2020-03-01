@@ -1,0 +1,41 @@
+############################################
+# Sensor:  acc                             #
+# Version: 27072015                        #
+# Posture: jumping                         #
+############################################
+
+acc_jumping_chest.csv
+> entries: 4972
+> frequency: 49.96 Hz
+> duration: 99513 ms / 1.66 min
+
+acc_jumping_forearm.csv
+> entries: 4941
+> frequency: 49.65 Hz
+> duration: 99514 ms / 1.66 min
+
+acc_jumping_head.csv
+> entries: 4971
+> frequency: 49.96 Hz
+> duration: 99493 ms / 1.66 min
+
+acc_jumping_shin.csv
+> entries: 4973
+> frequency: 49.98 Hz
+> duration: 99498 ms / 1.66 min
+
+acc_jumping_thigh.csv
+> entries: 4972
+> frequency: 49.96 Hz
+> duration: 99519 ms / 1.66 min
+
+acc_jumping_upperarm.csv
+> entries: 4972
+> frequency: 49.96 Hz
+> duration: 99517 ms / 1.66 min
+
+acc_jumping_waist.csv
+> entries: 4972
+> frequency: 49.96 Hz
+> duration: 99517 ms / 1.66 min
+

@@ -1,0 +1,41 @@
+############################################
+# Sensor:  acc                             #
+# Version: 28072015                        #
+# Posture: sitting                         #
+############################################
+
+acc_sitting_chest.csv
+> entries: 32698
+> frequency: 49.95 Hz
+> duration: 654571 ms / 10.91 min
+
+acc_sitting_forearm.csv
+> entries: 32505
+> frequency: 49.66 Hz
+> duration: 654584 ms / 10.91 min
+
+acc_sitting_head.csv
+> entries: 32697
+> frequency: 49.95 Hz
+> duration: 654557 ms / 10.91 min
+
+acc_sitting_shin.csv
+> entries: 32698
+> frequency: 49.95 Hz
+> duration: 654571 ms / 10.91 min
+
+acc_sitting_thigh.csv
+> entries: 32699
+> frequency: 49.95 Hz
+> duration: 654595 ms / 10.91 min
+
+acc_sitting_upperarm.csv
+> entries: 32697
+> frequency: 49.95 Hz
+> duration: 654552 ms / 10.91 min
+
+acc_sitting_waist.csv
+> entries: 32699
+> frequency: 49.95 Hz
+> duration: 654575 ms / 10.91 min
+

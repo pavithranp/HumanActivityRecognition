@@ -1,0 +1,41 @@
+############################################
+# Sensor:  Gyroscope                             #
+# Version: 23092015                        #
+# Posture: jumping                         #
+############################################
+
+Gyroscope_jumping_chest.csv
+> entries: 4749
+> frequency: 49.96 Hz
+> duration: 95052 ms / 1.58 min
+
+Gyroscope_jumping_forearm.csv
+> entries: 4778
+> frequency: 50.27 Hz
+> duration: 95049 ms / 1.58 min
+
+Gyroscope_jumping_head.csv
+> entries: 4750
+> frequency: 49.97 Hz
+> duration: 95053 ms / 1.58 min
+
+Gyroscope_jumping_shin.csv
+> entries: 4749
+> frequency: 49.96 Hz
+> duration: 95052 ms / 1.58 min
+
+Gyroscope_jumping_thigh.csv
+> entries: 4750
+> frequency: 49.99 Hz
+> duration: 95019 ms / 1.58 min
+
+Gyroscope_jumping_upperarm.csv
+> entries: 4750
+> frequency: 49.97 Hz
+> duration: 95061 ms / 1.58 min
+
+Gyroscope_jumping_waist.csv
+> entries: 4749
+> frequency: 49.97 Hz
+> duration: 95046 ms / 1.58 min
+

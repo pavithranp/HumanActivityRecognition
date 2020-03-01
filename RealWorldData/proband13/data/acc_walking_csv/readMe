@@ -1,0 +1,41 @@
+############################################
+# Sensor:  acc                             #
+# Version: 27072015                        #
+# Posture: walking_2                         #
+############################################
+
+acc_walking_2_chest.csv
+> entries: 32794
+> frequency: 49.95 Hz
+> duration: 656491 ms / 10.94 min
+
+acc_walking_2_forearm.csv
+> entries: 32594
+> frequency: 49.65 Hz
+> duration: 656484 ms / 10.94 min
+
+acc_walking_2_head.csv
+> entries: 32793
+> frequency: 49.95 Hz
+> duration: 656485 ms / 10.94 min
+
+acc_walking_2_shin.csv
+> entries: 32793
+> frequency: 49.95 Hz
+> duration: 656470 ms / 10.94 min
+
+acc_walking_2_thigh.csv
+> entries: 32795
+> frequency: 49.96 Hz
+> duration: 656465 ms / 10.94 min
+
+acc_walking_2_upperarm.csv
+> entries: 32793
+> frequency: 49.95 Hz
+> duration: 656480 ms / 10.94 min
+
+acc_walking_2_waist.csv
+> entries: 32794
+> frequency: 49.95 Hz
+> duration: 656475 ms / 10.94 min
+

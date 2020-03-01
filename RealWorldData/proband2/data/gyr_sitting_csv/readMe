@@ -1,0 +1,41 @@
+############################################
+# Sensor:  Gyroscope                             #
+# Version: 22092015                        #
+# Posture: sitting                         #
+############################################
+
+Gyroscope_sitting_chest.csv
+> entries: 30871
+> frequency: 49.96 Hz
+> duration: 617976 ms / 10.30 min
+
+Gyroscope_sitting_forearm.csv
+> entries: 31279
+> frequency: 50.62 Hz
+> duration: 617960 ms / 10.30 min
+
+Gyroscope_sitting_head.csv
+> entries: 30869
+> frequency: 49.95 Hz
+> duration: 617960 ms / 10.30 min
+
+Gyroscope_sitting_shin.csv
+> entries: 30869
+> frequency: 49.95 Hz
+> duration: 617954 ms / 10.30 min
+
+Gyroscope_sitting_thigh.csv
+> entries: 30870
+> frequency: 49.95 Hz
+> duration: 617975 ms / 10.30 min
+
+Gyroscope_sitting_upperarm.csv
+> entries: 30869
+> frequency: 49.95 Hz
+> duration: 617951 ms / 10.30 min
+
+Gyroscope_sitting_waist.csv
+> entries: 30871
+> frequency: 49.95 Hz
+> duration: 617979 ms / 10.30 min
+

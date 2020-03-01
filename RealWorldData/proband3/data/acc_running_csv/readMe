@@ -1,0 +1,41 @@
+############################################
+# Sensor:  acc                             #
+# Version: 31072015                        #
+# Posture: running                         #
+############################################
+
+acc_running_chest.csv
+> entries: 37938
+> frequency: 49.95 Hz
+> duration: 759472 ms / 12.66 min
+
+acc_running_forearm.csv
+> entries: 37708
+> frequency: 49.65 Hz
+> duration: 759479 ms / 12.66 min
+
+acc_running_head.csv
+> entries: 37959
+> frequency: 50.07 Hz
+> duration: 758153 ms / 12.64 min
+
+acc_running_shin.csv
+> entries: 37938
+> frequency: 49.95 Hz
+> duration: 759468 ms / 12.66 min
+
+acc_running_thigh.csv
+> entries: 37938
+> frequency: 49.95 Hz
+> duration: 759475 ms / 12.66 min
+
+acc_running_upperarm.csv
+> entries: 37937
+> frequency: 49.95 Hz
+> duration: 759464 ms / 12.66 min
+
+acc_running_waist.csv
+> entries: 37939
+> frequency: 49.95 Hz
+> duration: 759471 ms / 12.66 min
+

@@ -1,0 +1,41 @@
+############################################
+# Sensor:  acc                             #
+# Version: 28072015                        #
+# Posture: lying                         #
+############################################
+
+acc_lying_chest.csv
+> entries: 33787
+> frequency: 49.95 Hz
+> duration: 676370 ms / 11.27 min
+
+acc_lying_forearm.csv
+> entries: 33607
+> frequency: 49.69 Hz
+> duration: 676383 ms / 11.27 min
+
+acc_lying_head.csv
+> entries: 33787
+> frequency: 49.95 Hz
+> duration: 676378 ms / 11.27 min
+
+acc_lying_shin.csv
+> entries: 33786
+> frequency: 49.95 Hz
+> duration: 676339 ms / 11.27 min
+
+acc_lying_thigh.csv
+> entries: 33788
+> frequency: 49.95 Hz
+> duration: 676396 ms / 11.27 min
+
+acc_lying_upperarm.csv
+> entries: 33787
+> frequency: 49.95 Hz
+> duration: 676376 ms / 11.27 min
+
+acc_lying_waist.csv
+> entries: 33788
+> frequency: 49.95 Hz
+> duration: 676378 ms / 11.27 min
+

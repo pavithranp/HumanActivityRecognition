@@ -1,0 +1,41 @@
+############################################
+# Sensor:  Gyroscope                             #
+# Version: 22092015                        #
+# Posture: running                         #
+############################################
+
+Gyroscope_running_chest.csv
+> entries: 32215
+> frequency: 49.95 Hz
+> duration: 644911 ms / 10.75 min
+
+Gyroscope_running_forearm.csv
+> entries: 32485
+> frequency: 50.37 Hz
+> duration: 644958 ms / 10.75 min
+
+Gyroscope_running_head.csv
+> entries: 32218
+> frequency: 49.95 Hz
+> duration: 644966 ms / 10.75 min
+
+Gyroscope_running_shin.csv
+> entries: 32217
+> frequency: 49.95 Hz
+> duration: 644944 ms / 10.75 min
+
+Gyroscope_running_thigh.csv
+> entries: 32218
+> frequency: 49.95 Hz
+> duration: 644958 ms / 10.75 min
+
+Gyroscope_running_upperarm.csv
+> entries: 32217
+> frequency: 49.95 Hz
+> duration: 644946 ms / 10.75 min
+
+Gyroscope_running_waist.csv
+> entries: 32219
+> frequency: 49.95 Hz
+> duration: 644969 ms / 10.75 min
+

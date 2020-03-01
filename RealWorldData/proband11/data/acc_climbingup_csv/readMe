@@ -1,0 +1,41 @@
+############################################
+# Sensor:  acc                             #
+# Version: 22072015                        #
+# Posture: climbingup                         #
+############################################
+
+acc_climbingup_chest.csv
+> entries: 31487
+> frequency: 50.08 Hz
+> duration: 628737 ms / 10.48 min
+
+acc_climbingup_forearm.csv
+> entries: 31317
+> frequency: 49.82 Hz
+> duration: 628652 ms / 10.48 min
+
+acc_climbingup_head.csv
+> entries: 31464
+> frequency: 49.95 Hz
+> duration: 629874 ms / 10.50 min
+
+acc_climbingup_shin.csv
+> entries: 31464
+> frequency: 49.95 Hz
+> duration: 629871 ms / 10.50 min
+
+acc_climbingup_thigh.csv
+> entries: 31464
+> frequency: 49.95 Hz
+> duration: 629871 ms / 10.50 min
+
+acc_climbingup_upperarm.csv
+> entries: 31464
+> frequency: 49.95 Hz
+> duration: 629872 ms / 10.50 min
+
+acc_climbingup_waist.csv
+> entries: 31465
+> frequency: 49.95 Hz
+> duration: 629872 ms / 10.50 min
+

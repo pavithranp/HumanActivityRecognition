@@ -1,0 +1,41 @@
+############################################
+# Sensor:  Gyroscope                             #
+# Version: 22092015                        #
+# Posture: climbingup                         #
+############################################
+
+Gyroscope_climbingup_chest.csv
+> entries: 58036
+> frequency: 106.23 Hz
+> duration: 546329 ms / 9.11 min
+
+Gyroscope_climbingup_forearm.csv
+> entries: 27688
+> frequency: 50.68 Hz
+> duration: 546359 ms / 9.11 min
+
+Gyroscope_climbingup_head.csv
+> entries: 27292
+> frequency: 49.95 Hz
+> duration: 546353 ms / 9.11 min
+
+Gyroscope_climbingup_shin.csv
+> entries: 27293
+> frequency: 49.95 Hz
+> duration: 546361 ms / 9.11 min
+
+Gyroscope_climbingup_thigh.csv
+> entries: 27293
+> frequency: 49.95 Hz
+> duration: 546366 ms / 9.11 min
+
+Gyroscope_climbingup_upperarm.csv
+> entries: 27292
+> frequency: 49.95 Hz
+> duration: 546355 ms / 9.11 min
+
+Gyroscope_climbingup_waist.csv
+> entries: 27309
+> frequency: 50.10 Hz
+> duration: 545143 ms / 9.09 min
+
